@@ -13,5 +13,5 @@ My sense is that there is more interest in CS theory among software engineers no
 
 I also think the study of theory is a good counterbalance to the software-as-craftmanship movement, which (unintentionally I think) encourages the idea that programming != computer science.  On the contrary I think even the most mundane CRUD app is benefiting from an enormous amount of computer science-- we just don't usually have to think about it anymore.
 
-Anway, here we go.  Not surprisingly, the first topic is a variation of hashing.
+Anway, here we go.  Not surprisingly, the first topic is a [variation of hashing](http://mikemull.github.io/lsh.html).
 
